@@ -1,5 +1,4 @@
 <?php
-// Updated code for feature-update branch
 
 // API Configuration
 $apiKey   = "h523hDtETbkJ3nSJL323hjYLXbCyDaRZ";
