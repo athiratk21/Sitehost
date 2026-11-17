@@ -1,6 +1,7 @@
 <?php
+// Updated code for feature-update branch
 
-// Configuration
+// API Configuration
 $apiKey   = "h523hDtETbkJ3nSJL323hjYLXbCyDaRZ";
 $clientId = 100;
 $baseUrl  = "https://api.recruitment.shq.nz";
